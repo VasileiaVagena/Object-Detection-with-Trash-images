@@ -1,0 +1,8 @@
+train: "/content/drive/MyDrive/yolov7/dataset/train"
+test: "/content/drive/MyDrive/yolov7/dataset/test"
+valid: "/content/drive/MyDrive/yolov7/dataset/valid"
+#Classes
+nc: 4 # replace according to your number of classes
+#classes names
+#replace all class names list with your classes names
+names: ["plastic", "paper", "metal", "glass", "cardboard"]
