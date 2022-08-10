@@ -37,7 +37,7 @@ In this project I have enlarged a dataset of images using different Augmentation
 
 I used the YOLOv7, which was trained in Google colab, on data that I created using the above data Augmentation techniques and using only 5 categories (plastic, paper, metal, glass, cardboard).
 
-Here are some examples after training the model:
+Here are some results after training the model:
 
 ![test_batch2_labels](https://user-images.githubusercontent.com/110908916/183973298-30d9985f-960a-4c30-8a66-f0db9b665b6a.jpg)
 
