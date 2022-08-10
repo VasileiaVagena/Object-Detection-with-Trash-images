@@ -27,7 +27,7 @@ In this project I have enlarged my dataset of images using different Augmentatio
 
 - add different background
 
-![metal90_mirror_rotate225_background](https://user-images.githubusercontent.com/110908916/183959506-035bf2e9-4fc4-4376-95d3-d71413d8d567.png) ![metal90_sharp_rotate90_background](https://user-images.githubusercontent.com/110908916/183959748-43881117-b676-45ad-8bb5-63cae2ae32f0.png)
+
 
 
 
