@@ -19,6 +19,8 @@ In this project I have enlarged my dataset of images using different Augmentatio
 
 - perspective transformation
 
+![plastic17transparent_background](https://user-images.githubusercontent.com/110908916/183966105-dcbd571e-b9e1-45a2-88d3-873511084286.png) 
+
 
 
 - wave transformation
