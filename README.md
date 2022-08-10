@@ -11,3 +11,4 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - perspective transformation
 - wave transformation
 - add different background
+- 
