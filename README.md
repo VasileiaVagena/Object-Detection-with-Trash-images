@@ -41,6 +41,8 @@ Here are some examples after training the model:
 
 ![test_batch2_labels](https://user-images.githubusercontent.com/110908916/183973298-30d9985f-960a-4c30-8a66-f0db9b665b6a.jpg)
 
+<img width="381" alt="image" src="https://user-images.githubusercontent.com/110908916/183974145-ce5f659b-182f-498e-a3c0-562b452d9ccc.png">
+
 
 
 
