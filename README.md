@@ -3,7 +3,7 @@
 This project contains my work from my one month internship as a Data Scientist in Koncern IT at Københavns Kommune. During my internship I had the opportunity to participate in a Waste detection project, where I was exposed in the latest techniques in computer vision with python. I had the chance to learn and use libraries such as OpenCv and Pillow, how to do Data Augmentation and create Synthetic data.
 
 ---
-In this project I have enlarged my dataset of images using different Augmentation techniques such as
+In this project I have enlarged a dataset of images using different Augmentation techniques such as
 
 - transparent background
 
@@ -33,7 +33,9 @@ In this project I have enlarged my dataset of images using different Augmentatio
 
 ![plastic17_mirror_rotate45_backgroundresized](https://user-images.githubusercontent.com/110908916/183963834-a51041fd-d0df-405c-9606-b113056200b7.png) ![plastic17_sharp_rotate90_backgroundresized](https://user-images.githubusercontent.com/110908916/183963952-db18759f-7ab8-49ff-b4a4-6b03687b7015.png) ![plastic14_sharp_rotate0_backgroundresized](https://user-images.githubusercontent.com/110908916/183964250-75ce6371-f9a1-444a-be78-015bd9213b73.png) ![plastic14_mirror_rotate180_backgroundresized](https://user-images.githubusercontent.com/110908916/183964323-dcb60b2c-58d3-4670-9d4a-b59667b68276.png)
 
+---
 
+I used the YOLOv7, which was trained in Google colab, on data that I created using the above data Augmentation techniques and using only 5 categories (plastic, paper, metal, glass, cardboard).
 
 
 
