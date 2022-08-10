@@ -28,6 +28,10 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - add different background
 
 
+![plastic14_mirror_rotate180_backgroundresized](https://user-images.githubusercontent.com/110908916/183962471-06970a72-0f39-4e91-8efc-575e42b7b17d.png) 
+
+
+
 
 
 
