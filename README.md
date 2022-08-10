@@ -12,9 +12,9 @@ In this project I have enlarged my dataset of images using different Augmentatio
 
 ![plastic17transparent_background](https://user-images.githubusercontent.com/110908916/183950060-2037fea1-8b42-4f29-b74d-de00fc2e8ea3.png) ![plastic17transparent_background_Perspective_Transform](https://user-images.githubusercontent.com/110908916/183950410-b7797ce7-7d9d-46d0-95e1-390797a28c35.png)
 
-
-
 - wave transformation
+
+![plastic489transparent_background](https://user-images.githubusercontent.com/110908916/183955476-9603f05b-9811-461b-a5f5-01278b0b1687.png) 
 - add different background
 - 
 
