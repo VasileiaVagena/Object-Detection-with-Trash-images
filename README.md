@@ -28,7 +28,7 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - add different background
 
 
-![plastic17_mirror_rotate45_backgroundresized](https://user-images.githubusercontent.com/110908916/183963834-a51041fd-d0df-405c-9606-b113056200b7.png) 
+![plastic17_mirror_rotate45_backgroundresized](https://user-images.githubusercontent.com/110908916/183963834-a51041fd-d0df-405c-9606-b113056200b7.png) ![plastic17_sharp_rotate90_backgroundresized](https://user-images.githubusercontent.com/110908916/183963952-db18759f-7ab8-49ff-b4a4-6b03687b7015.png)
 
 
 
