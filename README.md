@@ -12,3 +12,8 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - wave transformation
 - add different background
 - 
+
+- transparent background
+
+![plastic491resized](https://user-images.githubusercontent.com/110908916/183945998-e839e860-fc49-4f9e-bdd4-d67edb3968a5.png)
+
