@@ -9,6 +9,10 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - flipping
 - rotation
 - perspective transformation
+
+![plastic17transparent_background](https://user-images.githubusercontent.com/110908916/183950060-2037fea1-8b42-4f29-b74d-de00fc2e8ea3.png)
+
+
 - wave transformation
 - add different background
 - 
