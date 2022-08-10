@@ -13,9 +13,6 @@ In this project I have enlarged my dataset of images using different Augmentatio
 
 ![plastic287transparent_background](https://user-images.githubusercontent.com/110908916/183970660-ea236313-5075-4e32-bf0d-e12a32314be3.png) ![plastic287transparent_background_sharpened](https://user-images.githubusercontent.com/110908916/183970936-8f34f97b-0ecb-43e7-b1f9-c4083bdd1b50.png)
 
-
-- flipping
-
 - rotation
 
 ![glass26resizedtransparent_background](https://user-images.githubusercontent.com/110908916/183957692-ee892513-6c9a-4a1d-9194-f297703c699a.png) ![glass26resizedtransparent_backgroundrotate135](https://user-images.githubusercontent.com/110908916/183957883-2dae7a96-a79f-473e-857f-25667669fe25.png)
