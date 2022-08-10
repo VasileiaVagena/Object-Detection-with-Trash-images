@@ -24,7 +24,10 @@ In this project I have enlarged my dataset of images using different Augmentatio
 - wave transformation
 
 ![plastic489transparent_background](https://user-images.githubusercontent.com/110908916/183955476-9603f05b-9811-461b-a5f5-01278b0b1687.png) ![plastic489transparent_background_wave](https://user-images.githubusercontent.com/110908916/183955787-1382aff6-ca1e-4be6-b275-09c220b4166b.png)
+
 - add different background
+
+![metal90_mirror_rotate225_background](https://user-images.githubusercontent.com/110908916/183959506-035bf2e9-4fc4-4376-95d3-d71413d8d567.png) 
 
 
 
