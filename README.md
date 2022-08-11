@@ -43,6 +43,8 @@ Here are some results after training the model:
 
 <img width="381" alt="image" src="https://user-images.githubusercontent.com/110908916/183974145-ce5f659b-182f-498e-a3c0-562b452d9ccc.png">   <img width="310" alt="image" src="https://user-images.githubusercontent.com/110908916/183974415-5481c5bd-9c77-41b9-beb7-3f42a0900b41.png">
 
+![plastic9_sharp_rotate60grass_background](https://user-images.githubusercontent.com/110908916/184097553-77351437-aed0-4ab2-b5d8-5cd6f1901c49.png)
+
 
 
 
